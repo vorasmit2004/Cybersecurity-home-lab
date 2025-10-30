@@ -2,13 +2,13 @@
 This project demonstrates how to build a personal cybersecurity lab to safely simulate attacks and defenses using virtual machines.   It serves as a foundation for future projects like vulnerability scanning, SIEM setup, and penetration testing.
  Tools & Technologies Used
 
-| Tool | Purpose | Type | Cost |
-|------|----------|------|------|
-| **VirtualBox** | Virtualization software to create and manage multiple VMs | Virtualization | ✅ Free |
-| **VMware Workstation (Optional)** | Alternative virtualization platform | Virtualization | ⚠️ Free (limited features) |
-| **Kali Linux** | Penetration testing and ethical hacking | OS | ✅ Free |
-| **Windows 10** | Target system for testing vulnerabilities | OS | ⚠️ Free (trial usable) |
-| **Ubuntu** | Defensive/server environment | OS | ✅ Free |
+| Tool | Purpose | Type |
+|------|----------|------|
+| **VirtualBox** | Virtualization software to create and manage multiple VMs | Virtualization |
+| **VMware Workstation (Optional)** | Alternative virtualization platform | Virtualization |
+| **Kali Linux** | Penetration testing and ethical hacking | OS | 
+| **Windows 10** | Target system for testing vulnerabilities | OS | 
+| **Ubuntu** | Defensive/server environment | OS | 
 
 ---
 
