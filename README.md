@@ -37,3 +37,18 @@ This project demonstrates how to build a personal cybersecurity lab to safely si
   ```bash
   ping 192.168.10.11
   ping 192.168.10.12
+  5. Test & Document
+
+### 5.Take screenshots of:
+
+VirtualBox VM list
+
+Network settings
+
+Successful ping test
+
+Save them in a /screenshots folder.
+
+### 6. Create Network Diagram
+
+Include a simple diagram of how your machines are connected (can be drawn using tools like draw.io or Excalidraw).
